@@ -1,0 +1,5 @@
+- basico = baseA
+- solo opt conflictos = baseB
+- solo opt penalty = baseC
+- penalty + conflictos = baseD
+- penalty + conflictos + bound = baseE
